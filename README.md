@@ -1,95 +1,73 @@
-# Hey, I'm Negix 👋
+Hey, I'm Negix 👋
 
-**Developer & Builder.**
-I build useful things with code.
+Creative Developer & Product Builder
 
-Focused on web apps, open-source software, automation, and turning ideas into working products.
+I design and build polished digital products for indie developers and small teams — from interface and product design to a working implementation.
 
----
+I care about building things that are not only functional, but clear, useful, reliable, and ready to ship.
 
-## About me
+What I do
+Product Design & Build
+Web Development
+UI / UX
+Creative Development
+Product Polish & Redesign
+Open Source
+AI-assisted Development
+Featured Projects
+Relay
 
-I like building things that solve real problems.
+An open-source, development-stage Android disaster communication project exploring resilient information delivery when connectivity is unstable.
 
-Not just prototypes — I care about making software that is simple, useful, reliable, and actually usable.
+Focus: Android / Kotlin / Communication / Reliability / UX / Open Source
 
-My process is simple:
+Pitchform
 
-**Build → Ship → Learn → Improve**
+A free, open-source visual vocal editor for local, non-destructive pitch correction and WAV export.
 
----
+Focus: React / TypeScript / Audio / Product Design / Open Source
 
-## What I build
+Formleaf
 
-* 🌐 Web applications
-* 🛠 Developer tools
-* ⚙️ Automation tools
-* 🔓 Open-source software
-* 🧪 Experimental products
-* 📱 Useful tools for everyday problems
+A privacy-first, local-first form builder for creating portable forms and exporting them as standalone HTML or versioned JSON.
 
----
+Focus: React / TypeScript / Local-first / UI / Open Source
 
-## Featured projects
+How I Work
 
-### Relay
+Idea → Design → Build → Ship → Learn → Improve
 
-A project focused on device-to-device communication and making information exchange more reliable and practical.
+I like turning rough ideas into products people can actually use.
 
-**Focus:** communication, reliability, UX, system design
+That means thinking beyond code — interface, usability, product structure, presentation, reliability, and the small details that make a product feel finished.
 
----
+Core Areas
 
-### Pitchform
+Development
 
-An open-source product built around turning ideas into practical software.
+TypeScript / JavaScript / Python / Kotlin / HTML / CSS
 
-**Focus:** web development, product design, OSS, usability
+React / Next.js / Node.js
 
----
+Product
 
-## Tech
+Web Development / UI & UX / Product Development / Creative Development
 
-**Languages**
+Workflow
 
-`TypeScript` `JavaScript` `Python` `HTML` `CSS`
+Git / GitHub / Open Source / Automation / AI-assisted Development
 
-**Web**
+Currently Exploring
+Better UI and UX
+Creative web experiences
+Product design
+Open-source development
+AI-assisted creative workflows
+Building products people actually want to use
+Principles
 
-`React` `Next.js` `Node.js`
+Build useful things.
+Keep things simple.
+Ship. Learn. Improve.
 
-**Tools**
-
-`Git` `GitHub` `VS Code`
-
----
-
-## Currently exploring
-
-* Better web application architecture
-* Automation
-* Developer experience
-* Open-source development
-* Product design
-* Building software people actually want to use
-
----
-
-## Principles
-
-* Build useful things.
-* Keep things simple.
-* Ship before it's perfect.
-* Fix what breaks.
-* Learn from real users.
-* Improve continuously.
-
----
-
-## Find me
-
-**GitHub:** [@heynegix](https://github.com/heynegix)
-
----
-
-> **Build useful things. Ship them. Improve them.**
+Building in public as @heynegix.
