@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/negix-brand-logo.svg" alt="Negix" width="520" />
+<img src="./assets/negix-brand-logo.png" alt="Negix brand logo" width="520" />
 
 # Hey, I'm Negix 👋
 
