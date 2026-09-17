@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/negix-brand-logo.svg" alt="Negix" width="520" />
+
 # Hey, I'm Negix 👋
 
 ### Creative Developer & Product Builder
