@@ -1,20 +1,29 @@
-<div align="center">
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
 
-<img src="./assets/negix-brand-logo-full.png" alt="Negix brand logo" width="720" />
+<img src="./assets/negix-brand-logo-cropped.png" alt="Negix brand logo" width="100%" />
 
-# Hey, I'm Negix 👋
+</td>
+<td width="58%" valign="middle">
 
-### Creative Developer & Product Builder
+<h1>Hey, I'm Negix 👋</h1>
 
-**I design and build polished digital products for indie developers and small teams.**
+<h3>Creative Developer &amp; Product Builder</h3>
 
-From early ideas and interfaces to working products — I care about making things that are **useful, clear, reliable, and ready to ship**.
+<p><strong>I design and build polished digital products for indie developers and small teams.</strong></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-heynegix.github.io-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://heynegix.github.io/)
-[![X](https://img.shields.io/badge/@heynegix-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/heynegix)
-[![GitHub](https://img.shields.io/badge/GitHub-heynegix-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/heynegix)
+<p>From early ideas and interfaces to working products — I care about making things that are <strong>useful, clear, reliable, and ready to ship</strong>.</p>
 
-</div>
+<p>
+<a href="https://heynegix.github.io/"><img src="https://img.shields.io/badge/Portfolio-heynegix.github.io-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+<a href="https://x.com/heynegix"><img src="https://img.shields.io/badge/@heynegix-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
+<a href="https://github.com/heynegix"><img src="https://img.shields.io/badge/GitHub-heynegix-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
